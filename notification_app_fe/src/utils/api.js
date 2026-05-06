@@ -2,7 +2,7 @@ import axios from "axios";
 
 // API URL
 const API_URL =
-  "http://20.207.122.201/evaluation-service/notifications";
+  "/evaluation-service/notifications";
 
 // Token
 const TOKEN =
